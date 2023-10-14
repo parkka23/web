@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6okt67idspehhjtQMQ0xBfRF+RZfUob50gvxUZyTOOsz80gqzIVZQfCfd6hjv4tP6qQY1eKbnVjRDE3UPugC1w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\parkk\\Рабочий стол\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\parkk\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\parkk\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
