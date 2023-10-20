@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\parkk\\Рабочий стол\\WebApplication1\\Common\\Common.csproj",
+      "projectUniqueName": "C:\\Users\\parkk\\Desktop\\WebApplication1\\Common\\Common.csproj",
       "projectName": "Common",
-      "projectPath": "C:\\Users\\parkk\\Рабочий стол\\WebApplication1\\Common\\Common.csproj",
+      "projectPath": "C:\\Users\\parkk\\Desktop\\WebApplication1\\Common\\Common.csproj",
       "packagesPath": "C:\\Users\\parkk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\parkk\\Рабочий стол\\WebApplication1\\Common\\obj\\",
+      "outputPath": "C:\\Users\\parkk\\Desktop\\WebApplication1\\Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

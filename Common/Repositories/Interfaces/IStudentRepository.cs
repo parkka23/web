@@ -4,11 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BLL.Services.Interfaces
+namespace Common.Repositories.Interfaces
 {
-    public interface IHomeService
+    public interface IStudentRepository
     {
-        public void Get(string id);
-
     }
 }
